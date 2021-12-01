@@ -1,0 +1,14 @@
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\bin\Debug\netcoreapp3.1\Decimal a Binario.exe
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\bin\Debug\netcoreapp3.1\Decimal a Binario.deps.json
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\bin\Debug\netcoreapp3.1\Decimal a Binario.runtimeconfig.json
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\bin\Debug\netcoreapp3.1\Decimal a Binario.runtimeconfig.dev.json
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\bin\Debug\netcoreapp3.1\Decimal a Binario.dll
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\bin\Debug\netcoreapp3.1\Decimal a Binario.pdb
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\obj\Debug\netcoreapp3.1\Decimal a Binario.csproj.AssemblyReference.cache
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\obj\Debug\netcoreapp3.1\Decimal a Binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\obj\Debug\netcoreapp3.1\Decimal a Binario.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\obj\Debug\netcoreapp3.1\Decimal a Binario.AssemblyInfo.cs
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\obj\Debug\netcoreapp3.1\Decimal a Binario.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\obj\Debug\netcoreapp3.1\Decimal a Binario.dll
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\obj\Debug\netcoreapp3.1\Decimal a Binario.pdb
+C:\Users\SENA\Desktop\Algoritmos\Algoritmos\Decimal a Binario\Decimal a Binario\obj\Debug\netcoreapp3.1\Decimal a Binario.genruntimeconfig.cache

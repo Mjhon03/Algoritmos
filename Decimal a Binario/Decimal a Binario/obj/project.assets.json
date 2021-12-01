@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\MetodoBurbuja\\MetodoBurbuja\\MetodoBurbuja.csproj",
-      "projectName": "MetodoBurbuja",
-      "projectPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\MetodoBurbuja\\MetodoBurbuja\\MetodoBurbuja.csproj",
+      "projectUniqueName": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\Decimal a Binario\\Decimal a Binario\\Decimal a Binario.csproj",
+      "projectName": "Decimal a Binario",
+      "projectPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\Decimal a Binario\\Decimal a Binario\\Decimal a Binario.csproj",
       "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\MetodoBurbuja\\MetodoBurbuja\\obj\\",
+      "outputPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\Decimal a Binario\\Decimal a Binario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",

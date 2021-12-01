@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\MetodoBurbuja\\MetodoBurbuja\\MetodoBurbuja.csproj": {}
+    "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\Año biciesto\\Año biciesto\\Año biciesto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\MetodoBurbuja\\MetodoBurbuja\\MetodoBurbuja.csproj": {
+    "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\Año biciesto\\Año biciesto\\Año biciesto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\MetodoBurbuja\\MetodoBurbuja\\MetodoBurbuja.csproj",
-        "projectName": "MetodoBurbuja",
-        "projectPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\MetodoBurbuja\\MetodoBurbuja\\MetodoBurbuja.csproj",
+        "projectUniqueName": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\Año biciesto\\Año biciesto\\Año biciesto.csproj",
+        "projectName": "Año biciesto",
+        "projectPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\Año biciesto\\Año biciesto\\Año biciesto.csproj",
         "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\MetodoBurbuja\\MetodoBurbuja\\obj\\",
+        "outputPath": "C:\\Users\\SENA\\Desktop\\Algoritmos\\Algoritmos\\Año biciesto\\Año biciesto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
