@@ -1,0 +1,13 @@
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\bin\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.exe
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\bin\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.deps.json
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\bin\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.runtimeconfig.json
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\bin\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.runtimeconfig.dev.json
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\bin\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.dll
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\bin\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.pdb
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\obj\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.csproj.AssemblyReference.cache
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\obj\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.AssemblyInfoInputs.cache
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\obj\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.AssemblyInfo.cs
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\obj\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\obj\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.dll
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\obj\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.pdb
+C:\Users\mjhon\source\repos\Perimeto y superficie de un circulo\Perimeto y superficie de un circulo\obj\Debug\netcoreapp3.1\Perimeto y superficie de un circulo.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\bin\Debug\netcoreapp3.1\ListaNombres_CRUD.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\bin\Debug\netcoreapp3.1\ListaNombres_CRUD.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\bin\Debug\netcoreapp3.1\ListaNombres_CRUD.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\bin\Debug\netcoreapp3.1\ListaNombres_CRUD.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\bin\Debug\netcoreapp3.1\ListaNombres_CRUD.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\bin\Debug\netcoreapp3.1\ListaNombres_CRUD.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\obj\Debug\netcoreapp3.1\ListaNombres_CRUD.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\obj\Debug\netcoreapp3.1\ListaNombres_CRUD.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\obj\Debug\netcoreapp3.1\ListaNombres_CRUD.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\obj\Debug\netcoreapp3.1\ListaNombres_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\obj\Debug\netcoreapp3.1\ListaNombres_CRUD.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\obj\Debug\netcoreapp3.1\ListaNombres_CRUD.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\ListaNombres_CRUD\ListaNombres_CRUD\obj\Debug\netcoreapp3.1\ListaNombres_CRUD.genruntimeconfig.cache

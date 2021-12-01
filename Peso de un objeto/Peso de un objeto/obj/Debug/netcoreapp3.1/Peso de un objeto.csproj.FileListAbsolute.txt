@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\bin\Debug\netcoreapp3.1\Peso de un objeto.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\bin\Debug\netcoreapp3.1\Peso de un objeto.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\bin\Debug\netcoreapp3.1\Peso de un objeto.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\bin\Debug\netcoreapp3.1\Peso de un objeto.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\bin\Debug\netcoreapp3.1\Peso de un objeto.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\bin\Debug\netcoreapp3.1\Peso de un objeto.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\obj\Debug\netcoreapp3.1\Peso de un objeto.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\obj\Debug\netcoreapp3.1\Peso de un objeto.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\obj\Debug\netcoreapp3.1\Peso de un objeto.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\obj\Debug\netcoreapp3.1\Peso de un objeto.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\obj\Debug\netcoreapp3.1\Peso de un objeto.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\obj\Debug\netcoreapp3.1\Peso de un objeto.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Peso de un objeto\Peso de un objeto\obj\Debug\netcoreapp3.1\Peso de un objeto.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\bin\Debug\netcoreapp3.1\Numerosimpares.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\bin\Debug\netcoreapp3.1\Numerosimpares.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\bin\Debug\netcoreapp3.1\Numerosimpares.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\bin\Debug\netcoreapp3.1\Numerosimpares.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\bin\Debug\netcoreapp3.1\Numerosimpares.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\bin\Debug\netcoreapp3.1\Numerosimpares.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\obj\Debug\netcoreapp3.1\Numerosimpares.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\obj\Debug\netcoreapp3.1\Numerosimpares.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\obj\Debug\netcoreapp3.1\Numerosimpares.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\obj\Debug\netcoreapp3.1\Numerosimpares.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\obj\Debug\netcoreapp3.1\Numerosimpares.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\obj\Debug\netcoreapp3.1\Numerosimpares.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Numerosimpares\Numerosimpares\obj\Debug\netcoreapp3.1\Numerosimpares.genruntimeconfig.cache

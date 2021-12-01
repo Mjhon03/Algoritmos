@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producto de los numeros positivos", "Producto de los numeros positivos\Producto de los numeros positivos.csproj", "{DD9DBB4E-A6DC-436C-8FBE-3188DE6445BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9DBB4E-A6DC-436C-8FBE-3188DE6445BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9DBB4E-A6DC-436C-8FBE-3188DE6445BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9DBB4E-A6DC-436C-8FBE-3188DE6445BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9DBB4E-A6DC-436C-8FBE-3188DE6445BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5BF5123-C284-49C8-BADE-EFE72F3B18DD}
+	EndGlobalSection
+EndGlobal

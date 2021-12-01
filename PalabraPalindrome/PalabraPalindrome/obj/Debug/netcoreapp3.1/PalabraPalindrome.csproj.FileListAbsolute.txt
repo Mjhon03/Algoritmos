@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\bin\Debug\netcoreapp3.1\PalabraPalindrome.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\bin\Debug\netcoreapp3.1\PalabraPalindrome.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\bin\Debug\netcoreapp3.1\PalabraPalindrome.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\bin\Debug\netcoreapp3.1\PalabraPalindrome.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\bin\Debug\netcoreapp3.1\PalabraPalindrome.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\bin\Debug\netcoreapp3.1\PalabraPalindrome.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\obj\Debug\netcoreapp3.1\PalabraPalindrome.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\obj\Debug\netcoreapp3.1\PalabraPalindrome.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\obj\Debug\netcoreapp3.1\PalabraPalindrome.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\obj\Debug\netcoreapp3.1\PalabraPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\obj\Debug\netcoreapp3.1\PalabraPalindrome.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\obj\Debug\netcoreapp3.1\PalabraPalindrome.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\PalabraPalindrome\PalabraPalindrome\obj\Debug\netcoreapp3.1\PalabraPalindrome.genruntimeconfig.cache

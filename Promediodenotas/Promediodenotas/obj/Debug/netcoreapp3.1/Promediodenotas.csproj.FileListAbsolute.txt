@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\bin\Debug\netcoreapp3.1\Promediodenotas.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\bin\Debug\netcoreapp3.1\Promediodenotas.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\bin\Debug\netcoreapp3.1\Promediodenotas.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\bin\Debug\netcoreapp3.1\Promediodenotas.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\bin\Debug\netcoreapp3.1\Promediodenotas.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\bin\Debug\netcoreapp3.1\Promediodenotas.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\obj\Debug\netcoreapp3.1\Promediodenotas.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\obj\Debug\netcoreapp3.1\Promediodenotas.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\obj\Debug\netcoreapp3.1\Promediodenotas.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\obj\Debug\netcoreapp3.1\Promediodenotas.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\obj\Debug\netcoreapp3.1\Promediodenotas.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\obj\Debug\netcoreapp3.1\Promediodenotas.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Promediodenotas\Promediodenotas\obj\Debug\netcoreapp3.1\Promediodenotas.genruntimeconfig.cache

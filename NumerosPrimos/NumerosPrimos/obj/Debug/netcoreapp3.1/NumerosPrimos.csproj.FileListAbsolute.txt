@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\bin\Debug\netcoreapp3.1\NumerosPrimos.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosPrimos\NumerosPrimos\obj\Debug\netcoreapp3.1\NumerosPrimos.genruntimeconfig.cache

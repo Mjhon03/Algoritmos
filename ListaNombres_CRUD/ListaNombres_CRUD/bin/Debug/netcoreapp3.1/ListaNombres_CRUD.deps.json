@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ListaNombres_CRUD/1.0.0": {
+        "runtime": {
+          "ListaNombres_CRUD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaNombres_CRUD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

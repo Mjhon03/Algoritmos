@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\bin\Debug\netcoreapp3.1\Elevar un numero.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\bin\Debug\netcoreapp3.1\Elevar un numero.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\bin\Debug\netcoreapp3.1\Elevar un numero.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\bin\Debug\netcoreapp3.1\Elevar un numero.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\bin\Debug\netcoreapp3.1\Elevar un numero.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\bin\Debug\netcoreapp3.1\Elevar un numero.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\obj\Debug\netcoreapp3.1\Elevar un numero.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\obj\Debug\netcoreapp3.1\Elevar un numero.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\obj\Debug\netcoreapp3.1\Elevar un numero.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\obj\Debug\netcoreapp3.1\Elevar un numero.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\obj\Debug\netcoreapp3.1\Elevar un numero.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\obj\Debug\netcoreapp3.1\Elevar un numero.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Elevar un numero\Elevar un numero\obj\Debug\netcoreapp3.1\Elevar un numero.genruntimeconfig.cache

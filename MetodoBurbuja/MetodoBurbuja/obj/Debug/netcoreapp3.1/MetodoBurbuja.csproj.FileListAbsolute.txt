@@ -1,0 +1,13 @@
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.exe
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.deps.json
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.runtimeconfig.json
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.runtimeconfig.dev.json
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.dll
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\bin\Debug\netcoreapp3.1\MetodoBurbuja.pdb
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.csproj.AssemblyReference.cache
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.AssemblyInfoInputs.cache
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.AssemblyInfo.cs
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.dll
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.pdb
+C:\Users\mjhon\source\repos\MetodoBurbuja\MetodoBurbuja\obj\Debug\netcoreapp3.1\MetodoBurbuja.genruntimeconfig.cache

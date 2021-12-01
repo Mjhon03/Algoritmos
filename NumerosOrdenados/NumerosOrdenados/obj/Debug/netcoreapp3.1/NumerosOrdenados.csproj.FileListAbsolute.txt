@@ -1,0 +1,13 @@
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\bin\Debug\netcoreapp3.1\NumerosOrdenados.exe
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\bin\Debug\netcoreapp3.1\NumerosOrdenados.deps.json
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\bin\Debug\netcoreapp3.1\NumerosOrdenados.runtimeconfig.json
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\bin\Debug\netcoreapp3.1\NumerosOrdenados.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\bin\Debug\netcoreapp3.1\NumerosOrdenados.dll
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\bin\Debug\netcoreapp3.1\NumerosOrdenados.pdb
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\obj\Debug\netcoreapp3.1\NumerosOrdenados.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\obj\Debug\netcoreapp3.1\NumerosOrdenados.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\obj\Debug\netcoreapp3.1\NumerosOrdenados.AssemblyInfo.cs
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\obj\Debug\netcoreapp3.1\NumerosOrdenados.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\obj\Debug\netcoreapp3.1\NumerosOrdenados.dll
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\obj\Debug\netcoreapp3.1\NumerosOrdenados.pdb
+C:\Users\SENA\source\repos\NumerosOrdenados\NumerosOrdenados\obj\Debug\netcoreapp3.1\NumerosOrdenados.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Perimeto y superficie de un circulo/1.0.0": {
+        "runtime": {
+          "Perimeto y superficie de un circulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perimeto y superficie de un circulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalCore", "TechnicalCore\TechnicalCore.csproj", "{9953BB58-DEA8-4CB3-BFFD-35B8951D3994}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalDataAccess", "TechnicalDataAccess\TechnicalDataAccess.csproj", "{23BF1E25-A915-4809-BDB3-DEE364D60AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalApi", "TechnicalApi\TechnicalApi.csproj", "{AF3D8DBB-5112-4922-922B-C5A2B4B74025}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalAngularJs", "TechnicalAngularJs\TechnicalAngularJs.csproj", "{1DE201DB-F7F5-47EA-AB65-361BAF7B3CA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalAngular", "TechnicalAngular\TechnicalAngular.csproj", "{868A50E7-E157-4110-86C5-EE52F0DA8D32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechnicalModel", "TechnicalModel\TechnicalModel.csproj", "{7B99A4AF-5DD6-416E-9463-709653B4DBD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9953BB58-DEA8-4CB3-BFFD-35B8951D3994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9953BB58-DEA8-4CB3-BFFD-35B8951D3994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9953BB58-DEA8-4CB3-BFFD-35B8951D3994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9953BB58-DEA8-4CB3-BFFD-35B8951D3994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23BF1E25-A915-4809-BDB3-DEE364D60AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23BF1E25-A915-4809-BDB3-DEE364D60AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23BF1E25-A915-4809-BDB3-DEE364D60AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23BF1E25-A915-4809-BDB3-DEE364D60AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3D8DBB-5112-4922-922B-C5A2B4B74025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3D8DBB-5112-4922-922B-C5A2B4B74025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3D8DBB-5112-4922-922B-C5A2B4B74025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3D8DBB-5112-4922-922B-C5A2B4B74025}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE201DB-F7F5-47EA-AB65-361BAF7B3CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE201DB-F7F5-47EA-AB65-361BAF7B3CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE201DB-F7F5-47EA-AB65-361BAF7B3CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE201DB-F7F5-47EA-AB65-361BAF7B3CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{868A50E7-E157-4110-86C5-EE52F0DA8D32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{868A50E7-E157-4110-86C5-EE52F0DA8D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{868A50E7-E157-4110-86C5-EE52F0DA8D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{868A50E7-E157-4110-86C5-EE52F0DA8D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B99A4AF-5DD6-416E-9463-709653B4DBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B99A4AF-5DD6-416E-9463-709653B4DBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B99A4AF-5DD6-416E-9463-709653B4DBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B99A4AF-5DD6-416E-9463-709653B4DBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E651E8-16DB-48B7-9506-AD3F2F4E0228}
+	EndGlobalSection
+EndGlobal

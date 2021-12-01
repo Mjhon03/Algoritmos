@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\bin\Debug\netcoreapp3.1\Teorema de Pitagoras.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\bin\Debug\netcoreapp3.1\Teorema de Pitagoras.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\bin\Debug\netcoreapp3.1\Teorema de Pitagoras.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\bin\Debug\netcoreapp3.1\Teorema de Pitagoras.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\bin\Debug\netcoreapp3.1\Teorema de Pitagoras.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\bin\Debug\netcoreapp3.1\Teorema de Pitagoras.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\obj\Debug\netcoreapp3.1\Teorema de Pitagoras.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\obj\Debug\netcoreapp3.1\Teorema de Pitagoras.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\obj\Debug\netcoreapp3.1\Teorema de Pitagoras.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\obj\Debug\netcoreapp3.1\Teorema de Pitagoras.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\obj\Debug\netcoreapp3.1\Teorema de Pitagoras.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\obj\Debug\netcoreapp3.1\Teorema de Pitagoras.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Teorema de Pitagoras\Teorema de Pitagoras\obj\Debug\netcoreapp3.1\Teorema de Pitagoras.genruntimeconfig.cache

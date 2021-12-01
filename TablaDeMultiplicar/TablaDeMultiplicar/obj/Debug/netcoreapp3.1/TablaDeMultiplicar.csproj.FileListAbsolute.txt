@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp3.1\TablaDeMultiplicar.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp3.1\TablaDeMultiplicar.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp3.1\TablaDeMultiplicar.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp3.1\TablaDeMultiplicar.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp3.1\TablaDeMultiplicar.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\bin\Debug\netcoreapp3.1\TablaDeMultiplicar.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp3.1\TablaDeMultiplicar.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp3.1\TablaDeMultiplicar.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp3.1\TablaDeMultiplicar.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp3.1\TablaDeMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp3.1\TablaDeMultiplicar.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp3.1\TablaDeMultiplicar.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\TablaDeMultiplicar\TablaDeMultiplicar\obj\Debug\netcoreapp3.1\TablaDeMultiplicar.genruntimeconfig.cache

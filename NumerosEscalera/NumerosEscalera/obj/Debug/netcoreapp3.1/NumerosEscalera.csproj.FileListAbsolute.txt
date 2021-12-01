@@ -1,0 +1,12 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\bin\Debug\netcoreapp3.1\NumerosEscalera.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\bin\Debug\netcoreapp3.1\NumerosEscalera.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\bin\Debug\netcoreapp3.1\NumerosEscalera.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\bin\Debug\netcoreapp3.1\NumerosEscalera.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\bin\Debug\netcoreapp3.1\NumerosEscalera.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\bin\Debug\netcoreapp3.1\NumerosEscalera.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\obj\Debug\netcoreapp3.1\NumerosEscalera.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\obj\Debug\netcoreapp3.1\NumerosEscalera.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\obj\Debug\netcoreapp3.1\NumerosEscalera.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\obj\Debug\netcoreapp3.1\NumerosEscalera.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\obj\Debug\netcoreapp3.1\NumerosEscalera.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\NumerosEscalera\NumerosEscalera\obj\Debug\netcoreapp3.1\NumerosEscalera.genruntimeconfig.cache

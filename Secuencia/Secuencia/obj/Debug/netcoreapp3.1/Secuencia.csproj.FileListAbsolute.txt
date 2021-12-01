@@ -1,0 +1,13 @@
+C:\Users\SENA\source\repos\Secuencia\Secuencia\bin\Debug\netcoreapp3.1\Secuencia.exe
+C:\Users\SENA\source\repos\Secuencia\Secuencia\bin\Debug\netcoreapp3.1\Secuencia.deps.json
+C:\Users\SENA\source\repos\Secuencia\Secuencia\bin\Debug\netcoreapp3.1\Secuencia.runtimeconfig.json
+C:\Users\SENA\source\repos\Secuencia\Secuencia\bin\Debug\netcoreapp3.1\Secuencia.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\Secuencia\Secuencia\bin\Debug\netcoreapp3.1\Secuencia.dll
+C:\Users\SENA\source\repos\Secuencia\Secuencia\bin\Debug\netcoreapp3.1\Secuencia.pdb
+C:\Users\SENA\source\repos\Secuencia\Secuencia\obj\Debug\netcoreapp3.1\Secuencia.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\Secuencia\Secuencia\obj\Debug\netcoreapp3.1\Secuencia.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Secuencia\Secuencia\obj\Debug\netcoreapp3.1\Secuencia.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Secuencia\Secuencia\obj\Debug\netcoreapp3.1\Secuencia.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Secuencia\Secuencia\obj\Debug\netcoreapp3.1\Secuencia.dll
+C:\Users\SENA\source\repos\Secuencia\Secuencia\obj\Debug\netcoreapp3.1\Secuencia.pdb
+C:\Users\SENA\source\repos\Secuencia\Secuencia\obj\Debug\netcoreapp3.1\Secuencia.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\bin\Debug\netcoreapp3.1\CalcularEdad.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\CalcularEdad\CalcularEdad\obj\Debug\netcoreapp3.1\CalcularEdad.genruntimeconfig.cache

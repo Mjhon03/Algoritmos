@@ -1,0 +1,13 @@
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\bin\Debug\netcoreapp3.1\NumerosPerfectos.exe
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\bin\Debug\netcoreapp3.1\NumerosPerfectos.deps.json
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\bin\Debug\netcoreapp3.1\NumerosPerfectos.runtimeconfig.json
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\bin\Debug\netcoreapp3.1\NumerosPerfectos.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\bin\Debug\netcoreapp3.1\NumerosPerfectos.dll
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\bin\Debug\netcoreapp3.1\NumerosPerfectos.pdb
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\netcoreapp3.1\NumerosPerfectos.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\netcoreapp3.1\NumerosPerfectos.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\netcoreapp3.1\NumerosPerfectos.AssemblyInfo.cs
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\netcoreapp3.1\NumerosPerfectos.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\netcoreapp3.1\NumerosPerfectos.dll
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\netcoreapp3.1\NumerosPerfectos.pdb
+C:\Users\SENA\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\netcoreapp3.1\NumerosPerfectos.genruntimeconfig.cache

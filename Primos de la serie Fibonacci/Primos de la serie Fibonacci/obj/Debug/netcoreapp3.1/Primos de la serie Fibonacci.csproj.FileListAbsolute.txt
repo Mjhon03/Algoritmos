@@ -1,0 +1,13 @@
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\bin\Debug\netcoreapp3.1\Primos de la serie Fibonacci.exe
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\bin\Debug\netcoreapp3.1\Primos de la serie Fibonacci.deps.json
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\bin\Debug\netcoreapp3.1\Primos de la serie Fibonacci.runtimeconfig.json
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\bin\Debug\netcoreapp3.1\Primos de la serie Fibonacci.runtimeconfig.dev.json
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\bin\Debug\netcoreapp3.1\Primos de la serie Fibonacci.dll
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\bin\Debug\netcoreapp3.1\Primos de la serie Fibonacci.pdb
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\obj\Debug\netcoreapp3.1\Primos de la serie Fibonacci.csproj.AssemblyReference.cache
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\obj\Debug\netcoreapp3.1\Primos de la serie Fibonacci.AssemblyInfoInputs.cache
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\obj\Debug\netcoreapp3.1\Primos de la serie Fibonacci.AssemblyInfo.cs
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\obj\Debug\netcoreapp3.1\Primos de la serie Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\obj\Debug\netcoreapp3.1\Primos de la serie Fibonacci.dll
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\obj\Debug\netcoreapp3.1\Primos de la serie Fibonacci.pdb
+C:\Users\mjhon\source\repos\Primos de la serie Fibonacci\Primos de la serie Fibonacci\obj\Debug\netcoreapp3.1\Primos de la serie Fibonacci.genruntimeconfig.cache

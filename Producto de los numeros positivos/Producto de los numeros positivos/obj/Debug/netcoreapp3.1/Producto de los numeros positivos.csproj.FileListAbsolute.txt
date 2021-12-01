@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\bin\Debug\netcoreapp3.1\Producto de los numeros positivos.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\bin\Debug\netcoreapp3.1\Producto de los numeros positivos.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\bin\Debug\netcoreapp3.1\Producto de los numeros positivos.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\bin\Debug\netcoreapp3.1\Producto de los numeros positivos.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\bin\Debug\netcoreapp3.1\Producto de los numeros positivos.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\bin\Debug\netcoreapp3.1\Producto de los numeros positivos.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\obj\Debug\netcoreapp3.1\Producto de los numeros positivos.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\obj\Debug\netcoreapp3.1\Producto de los numeros positivos.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\obj\Debug\netcoreapp3.1\Producto de los numeros positivos.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\obj\Debug\netcoreapp3.1\Producto de los numeros positivos.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\obj\Debug\netcoreapp3.1\Producto de los numeros positivos.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\obj\Debug\netcoreapp3.1\Producto de los numeros positivos.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Producto de los numeros positivos\Producto de los numeros positivos\obj\Debug\netcoreapp3.1\Producto de los numeros positivos.genruntimeconfig.cache

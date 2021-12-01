@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ordernar Numeros/1.0.0": {
+        "runtime": {
+          "Ordernar Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ordernar Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Primos de la serie Fibonacci/1.0.0": {
+        "runtime": {
+          "Primos de la serie Fibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Primos de la serie Fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

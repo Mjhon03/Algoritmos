@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Producto de los numeros positivos/1.0.0": {
+        "runtime": {
+          "Producto de los numeros positivos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Producto de los numeros positivos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

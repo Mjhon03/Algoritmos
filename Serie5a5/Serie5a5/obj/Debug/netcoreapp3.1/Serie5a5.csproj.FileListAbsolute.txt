@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\bin\Debug\netcoreapp3.1\Serie5a5.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\bin\Debug\netcoreapp3.1\Serie5a5.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\bin\Debug\netcoreapp3.1\Serie5a5.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\bin\Debug\netcoreapp3.1\Serie5a5.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\bin\Debug\netcoreapp3.1\Serie5a5.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\bin\Debug\netcoreapp3.1\Serie5a5.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\obj\Debug\netcoreapp3.1\Serie5a5.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\obj\Debug\netcoreapp3.1\Serie5a5.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\obj\Debug\netcoreapp3.1\Serie5a5.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\obj\Debug\netcoreapp3.1\Serie5a5.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\obj\Debug\netcoreapp3.1\Serie5a5.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\obj\Debug\netcoreapp3.1\Serie5a5.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\Serie5a5\Serie5a5\obj\Debug\netcoreapp3.1\Serie5a5.genruntimeconfig.cache

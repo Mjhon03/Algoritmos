@@ -1,0 +1,13 @@
+C:\Users\SENA\source\repos\Serie1\Serie1\bin\Debug\netcoreapp3.1\Serie1.exe
+C:\Users\SENA\source\repos\Serie1\Serie1\bin\Debug\netcoreapp3.1\Serie1.deps.json
+C:\Users\SENA\source\repos\Serie1\Serie1\bin\Debug\netcoreapp3.1\Serie1.runtimeconfig.json
+C:\Users\SENA\source\repos\Serie1\Serie1\bin\Debug\netcoreapp3.1\Serie1.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\Serie1\Serie1\bin\Debug\netcoreapp3.1\Serie1.dll
+C:\Users\SENA\source\repos\Serie1\Serie1\bin\Debug\netcoreapp3.1\Serie1.pdb
+C:\Users\SENA\source\repos\Serie1\Serie1\obj\Debug\netcoreapp3.1\Serie1.csprojAssemblyReference.cache
+C:\Users\SENA\source\repos\Serie1\Serie1\obj\Debug\netcoreapp3.1\Serie1.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Serie1\Serie1\obj\Debug\netcoreapp3.1\Serie1.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Serie1\Serie1\obj\Debug\netcoreapp3.1\Serie1.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Serie1\Serie1\obj\Debug\netcoreapp3.1\Serie1.dll
+C:\Users\SENA\source\repos\Serie1\Serie1\obj\Debug\netcoreapp3.1\Serie1.pdb
+C:\Users\SENA\source\repos\Serie1\Serie1\obj\Debug\netcoreapp3.1\Serie1.genruntimeconfig.cache

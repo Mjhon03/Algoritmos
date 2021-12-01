@@ -1,0 +1,13 @@
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\bin\Debug\netcoreapp3.1\IndiceDeMasaCorporal.exe
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\bin\Debug\netcoreapp3.1\IndiceDeMasaCorporal.deps.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\bin\Debug\netcoreapp3.1\IndiceDeMasaCorporal.runtimeconfig.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\bin\Debug\netcoreapp3.1\IndiceDeMasaCorporal.runtimeconfig.dev.json
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\bin\Debug\netcoreapp3.1\IndiceDeMasaCorporal.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\bin\Debug\netcoreapp3.1\IndiceDeMasaCorporal.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\obj\Debug\netcoreapp3.1\IndiceDeMasaCorporal.csproj.AssemblyReference.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\obj\Debug\netcoreapp3.1\IndiceDeMasaCorporal.AssemblyInfoInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\obj\Debug\netcoreapp3.1\IndiceDeMasaCorporal.AssemblyInfo.cs
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\obj\Debug\netcoreapp3.1\IndiceDeMasaCorporal.csproj.CoreCompileInputs.cache
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\obj\Debug\netcoreapp3.1\IndiceDeMasaCorporal.dll
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\obj\Debug\netcoreapp3.1\IndiceDeMasaCorporal.pdb
+C:\Users\mjhon\OneDrive\Escritorio\ADSI\C#\Algoritmos\IndiceDeMasaCorporal\IndiceDeMasaCorporal\obj\Debug\netcoreapp3.1\IndiceDeMasaCorporal.genruntimeconfig.cache
